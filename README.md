@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jonafk555
 - 👀 I’m interested in cybersecurity
-<script>alert(1)</script>
 
 
 <!---
