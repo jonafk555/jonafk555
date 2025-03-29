@@ -16,48 +16,31 @@
 ## 📊 GitHub 統計
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=您的GitHub用戶名&show_icons=true&theme=radical" alt="GitHub 統計" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=您的GitHub用戶名&layout=compact&theme=radical" alt="最常使用的語言" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jonafk55&show_icons=true&theme=radical" alt="GitHub 統計" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonafk55&layout=compact&theme=radical" alt="最常使用的語言" />
 </div>
 
 ## 🏆 GitHub 獎盃
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=您的GitHub用戶名&theme=onedark&row=1&column=6" alt="獎盃" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jonafk55&theme=onedark&row=1&column=6" alt="獎盃" />
 </div>
 
 ## 📌 置頂專案
 
 <div align="center">
   <a href="https://github.com/您的GitHub用戶名/項目1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=您的GitHub用戶名&repo=項目1&theme=radical" alt="項目1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonafk55&repo=項目1&theme=radical" alt="項目1" />
   </a>
   <a href="https://github.com/您的GitHub用戶名/項目2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=您的GitHub用戶名&repo=項目2&theme=radical" alt="項目2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonafk55&repo=項目2&theme=radical" alt="項目2" />
   </a>
 </div>
 
 ## 📈 貢獻圖
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=您的GitHub用戶名&theme=github" alt="貢獻圖" />
-</div>
-
-## 🔍 如何找到我
-
-<div align="center">
-  <a href="https://twitter.com/您的Twitter用戶名">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/您的LinkedIn用戶名/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/您的Facebook用戶名">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://您的個人網站.com">
-    <img src="https://img.shields.io/badge/-個人網站-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
-  </a>
+  <img src="https://activity-graph.herokuapp.com/graph?username=jonafk555&theme=github" alt="貢獻圖" />
 </div>
 
 ## 👁️ 訪客計數
