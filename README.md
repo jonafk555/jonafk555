@@ -1,18 +1,6 @@
 ## 👨‍💻 關於我
 - 🔭 Cyber Security Player
 
-## 🛠️ 技術與工具
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</div>
-
 ## 📊 GitHub 統計
 
 <div align="center">
@@ -29,10 +17,10 @@
 ## 📌 置頂專案
 
 <div align="center">
-  <a href="https://github.com/您的GitHub用戶名/項目1">
+  <a href="https://github.com/jonafk555/項目1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonafk555&repo=項目1&theme=radical" alt="項目1" />
   </a>
-  <a href="https://github.com/您的GitHub用戶名/項目2">
+  <a href="https://github.com/jonafk555/項目2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonafk555&repo=項目2&theme=radical" alt="項目2" />
   </a>
 </div>
