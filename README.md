@@ -30,9 +30,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/jonafk555/count.svg" alt="訪客計數" />
 </div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="引言" />
-</div>
